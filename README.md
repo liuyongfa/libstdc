@@ -2,7 +2,7 @@
 
 更新到Xcodex10之后，编译报错library not found for -lstdc++.6
 
-![image](https://github.com/liuyongfa/libstdc/blob/master/y.png)
+![image](https://github.com/liuyongfa/libstdc/blob/master/x.png)
 
 因为项目里Link Binary With Libraries里有libstdc++.6.tbd，但是Xcode10的库里却没有。
 
